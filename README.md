@@ -26,8 +26,7 @@ Meet Vandirium, your personal AI assistant. Chat with MNAI 6, create images in t
 Download the Windows installer from the
 [releases](https://github.com/MeowSamOPDZN/vandirium/releases).
 It installs to Program Files, adds Start Menu and desktop shortcuts, and
-registers an uninstaller. The desktop app loads the live site, so it stays
-current without rebuilding the installer. No auto-updater.
+registers an uninstaller.
 
 The desktop agent bridge is in the
 [vandirium-desktop](https://github.com/MeowSamOPDZN/vandirium-desktop)
